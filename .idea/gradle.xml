@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/RollAds" />
             <option value="$PROJECT_DIR$/SuspendCircle" />
             <option value="$PROJECT_DIR$/app" />
           </set>

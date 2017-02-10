@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RedRepair.iml" filepath="$PROJECT_DIR$/RedRepair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RollAds/RollAds.iml" filepath="$PROJECT_DIR$/RollAds/RollAds.iml" />
       <module fileurl="file://$PROJECT_DIR$/SuspendCircle/SuspendCircle.iml" filepath="$PROJECT_DIR$/SuspendCircle/SuspendCircle.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
